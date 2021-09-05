@@ -1,7 +1,7 @@
 DayZ 1.14 EXPERIMENTAL Chernarus & Livonia Dynamic Toxic Gas Position Logs To Be Used With Izurvive Map
 
 PLEASE NOTE these logs are created from the DayZ EXPERIMENTAL 1.14 xml files. Positions may change with full release of 1.14 and
-with furture updates!
+with future updates!
 
 ALTHOUGH I AM SURE that with the full release of Toxic Gas Zones, the Izurvive maps will be updated to included their positions.
 
